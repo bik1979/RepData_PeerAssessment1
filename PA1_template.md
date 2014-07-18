@@ -1,11 +1,7 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-author: "Victor Ruiz"
-date: "17 Jul 2014"
-output: html_document:
-keep_md: yes
----
-  
+Reproducible Research: Peer Assessment 1
+========================================  
+
+
 ## Loading and preprocessing the data
 
   
